@@ -12,6 +12,17 @@ The dashboard has three pages:
 - **Small Business & Investment Gap** — PPP and Restaurant Revitalization Fund capital distribution, workforce occupation breakdown, and self-employment rates compared across East and South Tulsa
 - **Community Impact** — N-400 Citizenship Fee Reimbursement Program outcomes, with placeholder sections for Housing Repair and Rental Assistance programs
 
+## Dashboard Preview
+
+**Page 1 — East Tulsa Snapshot**
+![East Tulsa Snapshot](Snapshot_2.png)
+
+**Page 2 — Small Business & Investment Gap**
+![Small Business & Investment Gap](Business_2.png)
+
+**Page 3 — Community Impact**
+![Community Impact](impact_2.png)
+
 ## Getting Started
 
 ### Requirements
