@@ -15,13 +15,13 @@ The dashboard has three pages:
 ## Dashboard Preview
 
 **Page 1 — East Tulsa Snapshot**
-![East Tulsa Snapshot](Snapshot_2.png)
+![East Tulsa Snapshot](Snapshot 2.png)
 
 **Page 2 — Small Business & Investment Gap**
-![Small Business & Investment Gap](Business_2.png)
+![Small Business & Investment Gap](Business 2.png)
 
 **Page 3 — Community Impact**
-![Community Impact](impact_2.png)
+![Community Impact](impact 2.png)
 
 ## Getting Started
 
